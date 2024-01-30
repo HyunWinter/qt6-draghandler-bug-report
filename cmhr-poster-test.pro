@@ -1,7 +1,6 @@
 TEMPLATE = app
 
-QT += core qml quick network gui core5compat core-private multimedia opengl
-QT += svg
+QT += core qml quick
 CONFIG += c++11
 CONFIG -= debug_and_release_target
 CONFIG += qmlcompiler
